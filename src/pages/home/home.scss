@@ -1,0 +1,42 @@
+page-home {
+    .tela{
+        max-height: 100%;
+    }
+
+    .usuario{
+        padding-right: 10px;
+        background-color: #e0e0e0;
+        border-radius: 5px;
+        display: flex;
+    }
+
+    .filha{
+        margin-left: auto;
+        padding-top:10px; 
+        display: flex;
+    }
+
+    h2{
+        text-align: right;
+        transform: translate(-5%,-5%);
+    }
+
+    .corpo{
+        background-color: #e0e0e0;
+        margin-top: 16px;
+        border-radius: 5px;
+        height:88%;
+        display: flex;
+    }
+
+    .filhaCorpo{
+        margin: auto;
+    }
+
+    h1{
+        font-size: 2.9em;
+        text-align: center;
+        transform: translate(5%, 5%);
+        width: 90%;
+    }
+}

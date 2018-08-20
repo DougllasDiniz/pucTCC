@@ -1,0 +1,13 @@
+{
+  "name": "sgc",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "proxies": [
+    {
+      "path": "/basePath/",
+      "proxyUrl": "http://18.231.176.32/sgc/"
+    }
+  ]
+}
